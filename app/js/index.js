@@ -1,4 +1,3 @@
-
 $.getJSON('app/data/data.json', function(obj) {
 	$(document).ready( function() {
 	var I = '#',
@@ -8,7 +7,6 @@ $.getJSON('app/data/data.json', function(obj) {
 	main = '<div id="'+obj.container+'" class="trans3d"><section id="'+obj.carousel+'" class="trans3d"></section></div>',
 	footer = '<footer><div id="'+obj.fps.name+'">Framerate: 0/60 FPS</div></footer>';
 	$('body').prepend(main).prepend(header).prepend(cnv);
-
 
 	$.each(obj.items, function(i, val) {
 	  $(I+obj.carousel).append('<figure id="item1" class="'+obj.item+' trans3d"><img src="./'+val.img+'"><a href="'+val.href+'" target="_blank" class="'+obj.inner+' trans3d">'+val.title+'</a></figure>');
@@ -216,4 +214,5 @@ $.getJSON('app/data/data.json', function(obj) {
 		return Math.floor((Math.random()*$n)+1);
 	}
 
-});});
+	});
+});
