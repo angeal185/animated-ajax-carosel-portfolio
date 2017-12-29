@@ -42,139 +42,139 @@
 		"size": 200
 	},
     "items": [{
-        "img": "app/img/glitch.png",
+        "img": "app/img/glitch.PNG",
         "href": "https://angeal185.github.io/js-canvas-animations/GLITCH!!!",
         "title": "GLITCH"
     }, {
-        "img": "app/img/animated-canvas-backgrounds.png",
+        "img": "app/img/animated-canvas-backgrounds.PNG",
         "href": "https://angeal185.github.io/js-canvas-animations/animated-canvas-backgrounds",
         "title": "animated-canvas-backgrounds"
     }, {
-        "img": "app/img/animated-canvas-bubbles.png",
+        "img": "app/img/animated-canvas-bubbles.PNG",
         "href": "https://angeal185.github.io/js-canvas-animations/animated-canvas-bubbles",
         "title": "animated-canvas-bubbles"
     }, {
-        "img": "app/img/animated-canvas-bubbles.png",
+        "img": "app/img/animated-canvas-bubbles.PNG",
         "href": "https://angeal185.github.io/js-canvas-animations/animated-canvas-bubbles-css",
         "title": "animated-canvas-bubbles-css"
     }, {
-        "img": "app/img/animated-dots-jquery-canvas-plugin.png",
+        "img": "app/img/animated-dots-jquery-canvas-plugin.PNG",
         "href": "https://angeal185.github.io/js-canvas-animations/animated-dots-jquery-canvas-plugin",
         "title": "animated-dots-jquery-canvas-plugin"
     }, {
-        "img": "app/img/animated-hex-canvas.png",
+        "img": "app/img/animated-hex-canvas.PNG",
         "href": "https://angeal185.github.io/js-canvas-animations/animated-hex-canvas",
         "title": "animated-hex-canvas"
     }, {
-        "img": "app/img/broken-loader.png",
+        "img": "app/img/broken-loader.PNG",
         "href": "https://angeal185.github.io/js-canvas-animations/broken-loader",
         "title": "broken-loader"
     }, {
-        "img": "app/img/canvas-triangular-particle-animation.png",
+        "img": "app/img/canvas-triangular-particle-animation.PNG",
         "href": "https://angeal185.github.io/js-canvas-animations/canvas-triangular-particle-animation",
         "title": "canvas-triangular-particle-animation"
     }, {
-        "img": "app/img/css-loader-of-hell.png",
+        "img": "app/img/css-loader-of-hell.PNG",
         "href": "https://angeal185.github.io/js-canvas-animations/css-loader-of-hell",
         "title": "css-loader-of-hell"
     }, {
-        "img": "app/img/gitlab-logo-animate.png",
+        "img": "app/img/gitlab-logo-animate.PNG",
         "href": "https://angeal185.github.io/js-canvas-animations/gitlab-logo-animate",
         "title": "gitlab-logo-animate"
     }, {
-        "img": "app/img/bubble.png",
+        "img": "app/img/bubble.PNG",
         "href": "https://angeal185.github.io/js-canvas-animations/gradient-bubble-animation",
         "title": "gradient-bubble-animation"
     }, {
-        "img": "app/img/hex-background.png",
+        "img": "app/img/hex-background.PNG",
         "href": "https://angeal185.github.io/js-canvas-animations/hex-background",
         "title": "hex-background"
     }, {
-        "img": "app/img/jquery-animated-starfield.png",
+        "img": "app/img/jquery-animated-starfield.PNG",
         "href": "https://angeal185.github.io/js-canvas-animations/jquery-animated-starfield",
         "title": "jquery-animated-starfield"
     }, {
-        "img": "app/img/js-word-animation.png",
+        "img": "app/img/js-word-animation.PNG",
         "href": "https://angeal185.github.io/js-canvas-animations/js-word-animation",
         "title": "js-word-animation"
     }, {
-        "img": "app/img/loader-hover-mixup.png",
+        "img": "app/img/loader-hover-mixup.PNG",
         "href": "https://angeal185.github.io/js-canvas-animations/loader-hover-mixup",
         "title": "loader-hover-mixup"
     }, {
-        "img": "app/img/loading.png",
+        "img": "app/img/loading.PNG",
         "href": "https://angeal185.github.io/js-canvas-animations/loading",
         "title": "loading"
     }, {
-        "img": "app/img/not-found-glitch.png",
+        "img": "app/img/not-found-glitch.PNG",
         "href": "https://angeal185.github.io/js-canvas-animations/not-found-glitch",
         "title": "not-found-glitch"
     }, {
-        "img": "app/img/on-hover-animate.png",
+        "img": "app/img/on-hover-animate.PNG",
         "href": "https://angeal185.github.io/js-canvas-animations/on-hover-animate",
         "title": "on-hover-animate"
     }, {
-        "img": "app/img/particle-animation.png",
+        "img": "app/img/particle-animation.PNG",
         "href": "https://angeal185.github.io/js-canvas-animations/particle-animation",
         "title": "particle-animation"
     }, {
-        "img": "app/img/particle-blur.png",
+        "img": "app/img/particle-blur.PNG",
         "href": "https://angeal185.github.io/js-canvas-animations/particle-blur",
         "title": "particle-blur"
     }, {
-        "img": "app/img/purple-clouds.png",
+        "img": "app/img/purple-clouds.PNG",
         "href": "https://angeal185.github.io/js-canvas-animations/purple-clouds",
         "title": "purple-clouds"
     }, {
-        "img": "app/img/fireflies.png",
+        "img": "app/img/fireflies.PNG",
         "href": "https://angeal185.github.io/js-canvas-animations/fireflies",
         "title": "fireflies"
     }, {
-        "img": "app/img/blood-cell-canvas.png",
+        "img": "app/img/blood-cell-canvas.PNG",
         "href": "https://angeal185.github.io/js-canvas-animations/blood-cell-canvas",
         "title": "blood-cell-canvas"
     }, {
-        "img": "app/img/animated-attract-triangle-canvas.png",
+        "img": "app/img/animated-attract-triangle-canvas.PNG",
         "href": "https://angeal185.github.io/js-canvas-animations/animated-attract-triangle-canvas",
         "title": "animated-attract-triangle-canvas"
     }, {
-        "img": "app/img/calm-animated-particle-background.png",
+        "img": "app/img/calm-animated-particle-background.PNG",
         "href": "https://angeal185.github.io/js-canvas-animations/calm-animated-particle-background",
         "title": "calm-animated-particle-background"
     }, {
-        "img": "app/img/star-particle-animated-gradient-canvas.png",
+        "img": "app/img/star-particle-animated-gradient-canvas.PNG",
         "href": "https://angeal185.github.io/js-canvas-animations/star-particle-animated-gradient-canvas",
         "title": "star-particle-animated-gradient-canvas"
     }, {
-        "img": "app/img/star-vortex.png",
+        "img": "app/img/star-vortex.PNG",
         "href": "https://angeal185.github.io/js-canvas-animations/star-vortex",
         "title": "star-vortex"
     }, {
-        "img": "app/img/animated-fireworks-canvas.png",
+        "img": "app/img/animated-fireworks-canvas.PNG",
         "href": "https://angeal185.github.io/js-canvas-animations/animated-fireworks-canvas",
         "title": "animated-fireworks-canvas"
     }, {
-        "img": "app/img/snow.png",
+        "img": "app/img/snow.PNG",
         "href": "https://angeal185.github.io/js-canvas-animations/snow",
         "title": "snow"
     }, {
-        "img": "app/img/starmap.png",
+        "img": "app/img/starmap.PNG",
         "href": "https://angeal185.github.io/js-canvas-animations/starmap",
         "title": "starmap"
     }, {
-        "img": "app/img/js-only-flashing-background-effect.png",
+        "img": "app/img/js-only-flashing-background-effect.PNG",
         "href": "https://angeal185.github.io/js-canvas-animations/js-only-flashing-background-effect",
         "title": "js-only-flashing-background-effect"
     }, {
-        "img": "app/img/rotating-loader.png",
+        "img": "app/img/rotating-loader.PNG",
         "href": "https://angeal185.github.io/js-canvas-animations/rotating-loader",
         "title": "rotating-loader"
     }, {
-        "img": "app/img/orb-attract.png",
+        "img": "app/img/orb-attract.PNG",
         "href": "https://angeal185.github.io/js-canvas-animations/orb-attract",
         "title": "orb-attract"
     }, {
-        "img": "app/img/particle-drag-effect.png",
+        "img": "app/img/particle-drag-effect.PNG",
         "href": "https://angeal185.github.io/js-canvas-animations/particle-drag-effect",
         "title": "particle-drag-effect"
     }]
