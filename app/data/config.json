@@ -1,0 +1,35 @@
+{
+	"colors": [
+		"96, 125, 139",
+		"3, 169, 244",
+		"19, 19, 19"
+	],
+	"blurry": true,
+	"border": false,
+	"minRadius": 10, 
+	"maxRadius": 35,
+	"minOpacity": 0.005,
+	"maxOpacity": 0.5,
+	"minSpeed": 0.05,
+	"maxSpeed": 0.5,
+	"fps": { 
+		"name":"fps",
+		"fps": 60,
+		"time": 1000
+	},
+	"numParticles": 75,
+	"dotBorder": "34, 34, 34, 0",
+	"strokeStyle":"#fff",
+	"perspective":600,
+	"init":{
+		"start":1,
+		"delay":0.1
+	},
+	"frame":{
+		"start":1.5,
+		"delay":0.1
+	},
+	"mouse":{
+		"size": 200
+	}
+}

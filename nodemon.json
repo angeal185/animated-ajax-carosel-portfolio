@@ -1,0 +1,16 @@
+{
+  "restartable": "rs",
+  "ignore": [
+    ".git",
+    "node_modules/**/node_modules"
+  ],
+  "verbose": false,
+  "execMap": {
+    "js": "node",
+	"start": "node ./server.js"
+  },
+  "watch": [
+    "app/"
+  ],
+  "ext": "js, json, html, css"
+}

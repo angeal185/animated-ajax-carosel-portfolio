@@ -1,0 +1,7 @@
+{
+  "name": "animated-ajax-carosel-portfolio",
+  "serve": "./",
+  "cache": 0,
+  "port": 8080,
+  "debug": true
+}

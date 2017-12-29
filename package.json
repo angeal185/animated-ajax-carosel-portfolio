@@ -1,0 +1,26 @@
+{
+  "name": "animated-ajax-carosel-portfolio",
+  "version": "1.0.0",
+  "description": "animated-ajax-carosel-portfolio",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/angeal185/animated-ajax-carosel-portfolio.git"
+  },
+  "keywords": [
+    "jquery"
+  ],
+  "author": "ben eaves",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/angeal185/animated-ajax-carosel-portfolio/issues"
+  },
+  "homepage": "https://github.com/angeal185/animated-ajax-carosel-portfolio#readme",
+  "dependencies": {
+    "chalk": "latest",
+    "node-static": "^0.7.9"
+  }
+}
