@@ -11,7 +11,7 @@ $.getJSON('app/data/data.json', function(obj) {
 
 
 	$.each(obj.items, function(i, val) {
-	  $(I+obj.carousel).append('<figure id="item1" class="'+obj.item+' trans3d"><img src="'+val.img+'"><a href="'+val.href+'" target="_blank" class="'+obj.inner+' trans3d">'+val.title+'</a></figure>');
+	  $(I+obj.carousel).append('<figure id="item1" class="'+obj.item+' trans3d"><img src="'./+val.img+'"><a href="'+val.href+'" target="_blank" class="'+obj.inner+' trans3d">'+val.title+'</a></figure>');
 	});
 
 	function Particles(){
